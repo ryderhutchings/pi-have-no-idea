@@ -87,6 +87,8 @@ Have no idea what to do with your Raspberry Pi? No worries!
 ## Virtualization & Containers
 
 ## Retro Gaming
+- [RetroPie](https://retropie.org.uk/0)
+- [Lakka](https://www.lakka.tv/)
 
 ## Hacking Tools
 
@@ -121,6 +123,9 @@ Have no idea what to do with your Raspberry Pi? No worries!
 ### DNS & DHCP Servers
 
 ## Game Servers
+- [Minecraft Server in Docker (Java)](https://github.com/itzg/docker-minecraft-server)
+- [Minecraft Server in Docker (Bedrock)](https://github.com/itzg/docker-minecraft-bedrock-server)
+- [Minecraft Bedrock Server for Pi](https://github.com/TheRemote/MinecraftBedrockServer)
 
 ## KVM (Kernel-based Virtual Machine)
 
