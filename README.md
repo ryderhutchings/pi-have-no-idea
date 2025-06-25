@@ -155,7 +155,6 @@ Have no idea what to do with your Raspberry Pi? No worries!
 ## Hacking Tools
 - [Kali Linux RaspberryPi](https://www.kali.org/get-kali/#kali-arm)
 - [ParrotOS](https://www.parrotsec.org/download/)
-- [BadUSB](https://github.com/hak5darren/usb-injector-script)
 
 ## AI
 - [TensorFlow](https://www.tensorflow.org/install)
