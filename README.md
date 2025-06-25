@@ -1,5 +1,12 @@
 # Pi Have No Idea
+```
+     ____  _   _   _                   _   _         ___    _            
+    |  _ \(_) | | | | __ ___   _____  | \ | | ___   |_ _|__| | ___  __ _ 
+    | |_) | | | |_| |/ _` \ \ / / _ \ |  \| |/ _ \   | |/ _` |/ _ \/ _` |
+    |  __/| | |  _  | (_| |\ V /  __/ | |\  | (_) |  | | (_| |  __/ (_| |
+    |_|   |_| |_| |_|\__,_| \_/ \___| |_| \_|\___/  |___\__,_|\___|\__,_|
 
+```
 ![License](https://img.shields.io/github/license/ryderhutchings/pi-have-no-idea)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA?label=YouTube&style=flat&color=red&logo=youtube)](https://www.youtube.com/@ryderhutchings?sub_confirmation=1)
 ![Contributors](https://img.shields.io/github/contributors/ryderhutchings/pi-have-no-idea)
