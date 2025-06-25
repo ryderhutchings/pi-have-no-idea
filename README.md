@@ -102,7 +102,6 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [PhotoPrism](https://photoprism.app/)
 - [Lychee](https://lycheeorg.github.io/)
 - [Piwigo](https://piwigo.org/)
-- [Chevereto](https://chevereto.com/)
 - [LibrePhotos](https://librephotos.com/)
 
 ### Monitoring & Dashboards
@@ -134,7 +133,6 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [Drone CI](https://drone.io/)
 - [Jenkins](https://www.jenkins.io/)
 - [GitLab CI](https://docs.gitlab.com/ee/ci/)
-- [Tekton](https://tekton.dev/)
 - [Portainer](https://www.portainer.io/)
   
 ### Self-hosted Wikis & Docs
@@ -165,7 +163,6 @@ Have no idea what to do with your Raspberry Pi? No worries!
 
 ## AI
 - [TensorFlow](https://www.tensorflow.org/install)
-- [PyTorch](https://pytorch.org/get-started/locally/)
 - [OpenCV](https://opencv.org/)
 - [Mycroft AI](https://mycroft.ai/)
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
