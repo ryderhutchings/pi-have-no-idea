@@ -24,6 +24,7 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [Internet of Things (IoT)](#internet-of-things-iot)
 - [Robotics](#robotics)
 - [Self-hosting](#self-hosting)
+  - [Home Server OS](#home-server-os)
   - [Web Servers](#web-servers)
   - [Media Servers](#media-servers)
   - [File Sharing & NAS](#file-sharing--nas)
@@ -70,6 +71,15 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [Code Club: Build Robots with Raspberry Pi](https://projects.raspberrypi.org/en/pathways/build-a-robot)
 
 ## Self-hosting
+
+### Home Server OS
+- [CasaOS](https://casaos.zimaspace.com/)
+- [YunoHost](https://yunohost.org/)
+- [umbrelOS](https://umbrel.com/umbrelos)
+- [Cloudron](https://www.cloudron.io/)
+- [StartOS (Start9Labs)](https://github.com/Start9Labs/start-os)
+- [Runtipi](https://runtipi.io/)
+- [Sandstorm](https://sandstorm.io/)
 
 ### Web Servers
 - [Nginx](https://nginx.org/)
@@ -166,10 +176,13 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [OpenCV](https://opencv.org/)
 - [Mycroft AI](https://mycroft.ai/)
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+- [Ollama](https://ollama.com/)
 
 ## Cluster Computing
 
-### Kubernetes & K3s
+### Kubernetes
+- [Kubesolo](https://github.com/portainer/kubesolo)
+- [k0s](https://k0sproject.io/)
 - [K3s](https://k3s.io/)
 - [MicroK8s](https://microk8s.io/)
 
@@ -187,6 +200,7 @@ Have no idea what to do with your Raspberry Pi? No worries!
 - [OPNsense](https://opnsense.org/)
 - [Snort](https://www.snort.org/)
 - [Suricata](https://suricata.io/)
+- [CrowdSec](https://www.crowdsec.net/)
 
 ### DNS & DHCP Servers
 - [Dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html)
